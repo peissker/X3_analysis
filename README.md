@@ -13,3 +13,5 @@ double peak. I recommend using QFitsView to analyze both files. Please select a 
 can clearly observed. Furthermore, it is obvious that the Br\gamma emission is not affected by the background.
 
 The line-of-sight velocity of the red side is about +50 km/s whereas the blue side corresponds to -150 km/s. This results in a \Delta{v} = 200 km/s. 
+
+If the interested reader has problems accessing the fits files showing the displacement of the Br\gamma line, we uploaded two png files showing the red and blue side. We created also a short clip that can be used without any restrictions.
